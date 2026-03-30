@@ -32,11 +32,6 @@ I am a second-year Electronics Engineering student at **Jaypee Institute of Info
 
 ---
 
-### 📊 Vital Stats
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=quarky-1&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quarky-1&layout=compact&theme=dark)
-
----
 
 ### 🤝 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sarthak-tripathi-0b925b1b7/) 
