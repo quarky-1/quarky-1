@@ -1,5 +1,3 @@
-<img src="./banner.jpg" width="100%" alt="VLSI stylized banner" />
-
 # Hi there, I'm Sarthak Tripathi 👋
 
 ### ⚡ Aspiring VLSI Engineer | Electronics Engineering Student @ JIIT
@@ -9,11 +7,11 @@ I am a second-year Electronics Engineering student at **Jaypee Institute of Info
 ---
 
 ### 🛠️ What I'm Up To
-- 🔭 **I’m currently working on**: Refining the **RTL-to-GDSII physical design flow** for an 8-bit ALU using the OpenLane and Sky130 PDK.
-- 🌱 **I’m currently learning**: Advanced computer architecture and deep-diving into **Static Timing Analysis (STA)** and multi-corner signoff.
+- 🔭 **I’m currently working on**: RTL related projects and expanding my knowledge related to Digital VLSI Design.
+- 🌱 **I’m currently learning**: Advanced digital systems and VLSI Design flow.
 - 👯 **I’m looking to collaborate on**: Open-source hardware projects, custom EDA tool scripts, or RTL-based digital system designs.
-- [cite_start]💬 **Ask me about**: Digital Logic, Verilog HDL, the OpenLane flow, or my research into **Edge AI inference**[cite: 19].
-- [cite_start]📫 **How to reach me**: [contact.sarthaktripathi@gmail.com](mailto:contact.sarthaktripathi@gmail.com)[cite: 2].
+- 💬 **Ask me about**: Digital Logic, Verilog HDL, the OpenLane flow, or my research into **Edge AI inference**.
+- 📫 **How to reach me**: [contact.sarthaktripathi@gmail.com](mailto:contact.sarthaktripathi@gmail.com).
 
 ---
 
@@ -29,7 +27,7 @@ I am a second-year Electronics Engineering student at **Jaypee Institute of Info
 ---
 
 ### 🚀 Featured Repositories
-- **[RTL-to-GDS-ALU](https://github.com/quarky-1/RTL-to-GDS-ALU)**: Complete physical design flow of an 8-bit ALU.
+- **[RTL-to-GDS-ALU](https://github.com/quarky-1/RTL-to-GDS-ALU)**: Complete physical design flow of an 8-bit ALU using OpenLane and Sky130.
 - **[digital-alarm-threshold-comparator](https://github.com/quarky-1/digital-alarm-threshold-comparator)**: MATLAB simulation for digital alarm monitoring with voice control.
 
 ---
