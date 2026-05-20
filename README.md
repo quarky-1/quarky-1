@@ -27,13 +27,12 @@ I am a second-year Electronics Engineering (VLSI Design & Technology) student at
 
 ### 🚀 Featured Repositories
 
-- **[kmeans-hardware-accelerator](https://github.com/quarky-1/kmeans-hardware-accelerator)**: Fixed-point RTL K-Means clustering accelerator in Verilog — Q8.8 arithmetic, 5-state FSM, self-checking testbench (6/6 passing). Targeting FPGA and ASIC (Sky130).
-
-- **[cadence-asic-design-flow](https://github.com/quarky-1/cadence-asic-design-flow)**: Front-to-back digital ASIC flow using Cadence Incisive → Genus 20.1 → Innovus. Counter synthesized to 34 standard cells; MMMC timing analysis on 180nm foundry process.
-
-- **[RTL-to-GDS-ALU](https://github.com/quarky-1/RTL-to-GDS-ALU)**: Full RTL-to-GDSII implementation of an 8-bit ALU using OpenLane and Sky130 PDK. 115 standard cells, 998 µm², 60.8 µW, zero DRC/LVS/antenna violations.
-
-- **[Data-Driven-Analysis-and-Predictive-Modelling-of-VLSI-Design-Metrics](https://github.com/quarky-1/Data-Driven-Analysis-and-Predictive-Modelling-of-VLSI-Design-Metrics)**: EDA and predictive modelling on real OpenLane metrics using Python — Linear Regression achieving R² ≈ 0.999 for power prediction.
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**kmeans-hardware-accelerator**](https://github.com/quarky-1/kmeans-hardware-accelerator) | Fixed-point RTL K-Means accelerator — 5-state FSM, Q8.8 arithmetic, self-checking testbench (6/6 passing) | `Verilog` `Icarus` `GTKWave` |
+| [**cadence-asic-design-flow**](https://github.com/quarky-1/cadence-asic-design-flow) | Front-to-back ASIC flow: ncsim → Genus → Innovus — 34 std cells, MMMC timing on 180nm process | `Cadence` `Genus` `Innovus` |
+| [**RTL-to-GDS-ALU**](https://github.com/quarky-1/RTL-to-GDS-ALU) | 8-bit ALU: 115 Sky130 cells, 998 µm², 60.8 µW, zero DRC/LVS/antenna violations | `OpenLane` `Sky130` `Magic` |
+| [**Data-Driven-Analysis-VLSI-Metrics**](https://github.com/quarky-1/Data-Driven-Analysis-and-Predictive-Modelling-of-VLSI-Design-Metrics) | Predictive modelling on OpenLane metrics — R² ≈ 0.999 for power prediction | `Python` `Pandas` `Sklearn` |
 
 ---
 
