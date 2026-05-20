@@ -32,7 +32,7 @@ I am a second-year Electronics Engineering (VLSI Design & Technology) student at
 | [**kmeans-hardware-accelerator**](https://github.com/quarky-1/kmeans-hardware-accelerator) | Fixed-point RTL K-Means accelerator — 5-state FSM, Q8.8 arithmetic, self-checking testbench (6/6 passing) | `Verilog` `Icarus` `GTKWave` |
 | [**cadence-asic-design-flow**](https://github.com/quarky-1/cadence-asic-design-flow) | Front-to-back ASIC flow: ncsim → Genus → Innovus — 34 std cells, MMMC timing on 180nm process | `Cadence` `Genus` `Innovus` |
 | [**RTL-to-GDS-ALU**](https://github.com/quarky-1/RTL-to-GDS-ALU) | 8-bit ALU: 115 Sky130 cells, 998 µm², 60.8 µW, zero DRC/LVS/antenna violations | `OpenLane` `Sky130` `Magic` |
-| [**Data-Driven-Analysis-VLSI-Metrics**](https://github.com/quarky-1/Data-Driven-Analysis-and-Predictive-Modelling-of-VLSI-Design-Metrics) | Predictive modelling on OpenLane metrics — R² ≈ 0.999 for power prediction | `Python` `Pandas` `Sklearn` |
+| [**Data-Driven-Analysis-VLSI-Metrics**](https://github.com/quarky-1/Data-Driven-Analysis-and-Predictive-Modelling-of-VLSI-Design-Metrics) | EDA and regression modelling on real OpenLane synthesis, timing, and power metrics using Python | `Python` `Pandas` `Sklearn` |
 
 ---
 
