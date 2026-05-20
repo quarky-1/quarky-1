@@ -21,7 +21,7 @@ I am a second-year Electronics Engineering (VLSI Design & Technology) student at
 | **EDA & VLSI Tools** | Cadence Incisive (ncsim), Cadence Genus, Cadence Innovus, OpenLane, Magic VLSI, Sky130 PDK, KLayout, Icarus Verilog, GTKWave, Xilinx Vivado |
 | **VLSI Concepts** | Logic Synthesis, Physical Implementation, MMMC Timing Analysis, Static Timing Analysis, DRC/LVS |
 | **Software & Scripting** | Python, C/C++, Embedded C, MATLAB, Linux |
-| **Embedded & Systems** | ATmega16, Arduino, ESP32, FPGA (Targeting) |
+| **Embedded & Systems** | ATmega16, Arduino, ESP32, FPGA |
 
 ---
 
